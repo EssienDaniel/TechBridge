@@ -1,0 +1,4 @@
+cashier,the amount is 678,Abel,Thu Aug 27 04:56:59 2020
+marketer,i sold 34 packs,Damilola,Thu Aug 27 04:57:32 2020
+Accountant,Debit is greater than credit,Sarah ,Thu Aug 27 04:58:20 2020
+security,,Uche,Thu Aug 27 04:58:44 2020
